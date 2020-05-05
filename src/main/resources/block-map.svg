@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+    <title>new</title>
+    <rect width="700" height="700" fill="#fff"/>
+    <rect id="stage" x="216" y="123.98" width="267" height="87" rx="17.35" fill="#786fa6"/>
+    <rect id="block-1" x="99" y="275" width="121" height="121" fill="#f8a5c2"/>
+    <rect id="block-2" x="287" y="275" width="121" height="121" fill="#f8a5c2"/>
+    <rect id="block-3" x="480" y="275" width="121" height="121" fill="#f8a5c2"/>
+    <rect id="block-4" x="99" y="430.33" width="121" height="121" fill="#f8a5c2"/>
+    <rect id="block-5" x="287" y="430.33" width="121" height="121" fill="#f8a5c2"/>
+    <rect id="block-6" x="480" y="430.33" width="121" height="121" fill="#f8a5c2"/>
+    <text transform="translate(299.04 178.04)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter">
+        <tspan letter-spacing="-0.01em">S</tspan>
+        <tspan x="20.83" y="0" letter-spacing="-0.13em">T</tspan>
+        <tspan x="33.94" y="0">A</tspan>
+        <tspan x="55.15" y="0" letter-spacing="0.01em">G</tspan>
+        <tspan x="79.63" y="0">E</tspan>
+    </text>
+    <text transform="translate(149.67 343.7)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter" letter-spacing="0.04em">1
+    </text>
+    <text transform="translate(339.75 343.7)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter" letter-spacing="0.04em">2
+    </text>
+    <text transform="translate(530.61 343.7)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter" letter-spacing="0.04em">3
+    </text>
+    <text transform="translate(146.68 497.7)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter" letter-spacing="0.06em">4
+    </text>
+    <text transform="translate(334.95 497.7)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter" letter-spacing="0.06em">5
+    </text>
+    <text transform="translate(531.28 497.7)" font-size="48" fill="#fff"
+          font-family="SignPainter-HouseScript, SignPainter" letter-spacing="0.06em">6
+    </text>
+</svg>
